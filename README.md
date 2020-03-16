@@ -55,3 +55,9 @@ Engine实现的 ServeHTTP 方法的作用就是，解析请求的路径，查找
 ## 服务端渲染
 ## 静态资源文件
 ## html模板渲染
+
+# 错误恢复
+- panic
+- defer
+- recover
+- 错误处理
